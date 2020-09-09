@@ -1,0 +1,4 @@
+•	Go to cd /home/sarah/learning-app-ecommerce and run git log
+•	You may list the last few commits alone using the --max-count option like this git log -n 3 or git log --max-count 3
+•	Go to cd /home/sarah/learning-app-ecommerce and run git log -n 1
+•	Go to cd /home/sarah/learning-app-ecommerce and run git log --name-only and look for the commit that changed the file js/theme.js
